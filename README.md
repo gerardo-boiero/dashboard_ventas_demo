@@ -8,7 +8,7 @@ Es un Dashboard básico de Ventas utilizado para dar capacitaciones y demos, per
 4. Abrir el archivo de plantilla de PowerBI en Power BI, y le solicitará que complete la ubicación y nombre del archivo de datos para conectarlo a sus propios datos. El parámetro a completar debe ser similar a:  C:\Ejemplo PBI\demo_ventas\dashboard_ventas_datos.xlsx
 5. Luego, se actualizará el Dashboard de PowerBI con sus datos. Cada vez que se realicen modificaciones en el archivo Excel, deberá Actualizar los datos en Power BI.
    
-##Descripción
+## Descripción
 El dashboard cuenta con __5 páginas dinámicas__ y __filtros por año y mes__, para facilitar la exploración y el análisis de la información:
 
 *Visión general de las ventas
