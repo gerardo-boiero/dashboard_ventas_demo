@@ -11,10 +11,10 @@ Es un Dashboard básico de Ventas utilizado para dar capacitaciones y demos, per
 ## Descripción
 El dashboard cuenta con __5 páginas dinámicas__ y __filtros por año y mes__, para facilitar la exploración y el análisis de la información:
 
-*Visión general de las ventas
-*Ventas por clientes
-*Ventas por productos
-*Ventas por sucursales/vendedores
-*Comparación de ventas por año
+* Visión general de las ventas
+* Ventas por clientes
+* Ventas por productos
+* Ventas por sucursales/vendedores
+* Comparación de ventas por año
 
 El modelo de datos cuenta con __5 dimensiones__ (Cliente, Sucursal, Producto, Vendedor, Calendario) y __1 tabla de hechos__ (Ventas).
