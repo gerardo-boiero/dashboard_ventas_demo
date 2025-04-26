@@ -1,5 +1,5 @@
 # dashboard_ventas_demo
-Dashboard básico de Ventas para capacitaciones y demos
+Es un Dashboard básico de Ventas utilizado para dar capacitaciones y demos, pero que puede ser usado por cualquier persona/comercio para aprender sobre la herramienta Power BI y analizar sus datos.
 
 ## Instalación
 1. Descargar e instalar Power BI Desktop
