@@ -18,3 +18,5 @@ El dashboard cuenta con __5 páginas dinámicas__ y __filtros por año y mes__, 
 * Comparación de ventas por año
 
 El modelo de datos cuenta con __5 dimensiones__ (Cliente, Sucursal, Producto, Vendedor, Calendario) y __1 tabla de hechos__ (Ventas).
+
+En el dashboard Nivel2 cuenta con ejemplos de componentes y funciones impulsadas por IA en PowerBI, como ser: __Clustering y Esquemas Jerárquicos__
